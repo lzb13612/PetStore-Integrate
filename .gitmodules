@@ -1,9 +1,0 @@
-[submodule "PetStore-Front"]
-	path = PetStore-Front
-	url = git@github.com:lzb13612/PetStore-Front.git
-[submodule "PetStore-Backend"]
-	path = PetStore-Backend
-	url = git@github.com:lzb13612/PetStore-Backend.git
-[submodule "PetStore-Contract"]
-	path = PetStore-Contract
-	url = git@github.com:lzb13612/PetStore-Contract.git
